@@ -2,6 +2,7 @@
 
 # Usage 
 
+~~~
 
 module "my_ec2_instance" {
   source = "github.com/torsaft/tf-module-example"
