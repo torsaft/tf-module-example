@@ -1,4 +1,5 @@
 # TF module example 
+A simple example of creating a terraform module available for other users. 
 
 # Usage 
 
