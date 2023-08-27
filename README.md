@@ -1,5 +1,5 @@
 # TF module example 
-A simple example of creating a terraform module available for other users. 
+Exploring TF modules. Created a module available for other users. Using this module creates a simple EC2 instance meant for AWS. 
 
 # Usage 
 
